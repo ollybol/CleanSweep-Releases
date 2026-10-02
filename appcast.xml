@@ -31,7 +31,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - 修复窗口缩放时列表滚动错位的问题。
 - 后台项目扫描现在仅在明确请求时执行。
 ]]></description>
-            <enclosure url="https://github.com/ollybol/CleanSweep-Releases/releases/download/v1.0.1/CleanSweep-1.0.1.dmg" length="6080898" type="application/octet-stream" sparkle:edSignature="UBkr+Am/86EaIw5Kaevej/iu1YCq6j/3VXcCy+RbhyFqJJV2MGtHve6i6qJEeoutEb9qCZO3/Eosc6NOQNoYAw=="/>
+            <enclosure url="https://github.com/ollybol/CleanSweep-Releases/releases/download/v1.0.1/CleanSweep-1.0.1-G2.dmg" length="6083152" type="application/octet-stream" sparkle:edSignature="OVDVRQLiHcjXarM2azC6rFtPIjtetYUWhnmthFC4Lsuiu87b2OfZyPLIPc8rkySjW9d8L6dYfrsiCdiwVi48Bg=="/>
         </item>
         <item>
             <title>1.0.0</title>
@@ -45,6 +45,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: /xqk48C0yxrsZOaEuCDcVyo4B49iy7qO/k7+LygILu1nXDSYClRd5NqUWRKab1jLzVN1lW9+s5aZRMefGcQ6Dw==
-length: 2722
+edSignature: Em41ncOHShi2QWxyKx+4kIKXJisYD7nA08OtFKIYLsqvgLKxKyR9uKWcNMVRNr/+tmetE/nBZW9q7BF7r/HTAA==
+length: 2725
 -->
